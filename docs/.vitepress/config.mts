@@ -44,7 +44,8 @@ export default defineConfig({
       {
         text: '设计阶段',
         items: [
-          { text: '需求', link: '/design/requirement' },
+          { text: '硬装需求', link: '/design/hard' },
+          { text: '软装需求', link: '/design/soft' },
           { text: '效果图', link: '/build/tenjou' },
           { text: '问题', link: '/build/tengen' },
         ],
