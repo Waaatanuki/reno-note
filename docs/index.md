@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /begin/about
+      link: /begin/关于
 
 features:
   - title: 酷家乐

@@ -37,23 +37,22 @@ export default defineConfig({
       {
         text: '开始',
         items: [
-          { text: '关于', link: '/begin/about' },
-          { text: '提示词', link: '/begin/learn' },
+          { text: '关于', link: '/begin/关于' },
+          { text: '待确认', link: '/begin/待确认' },
         ],
       },
       {
         text: '设计阶段',
         items: [
-          { text: '硬装需求', link: '/design/hard' },
-          { text: '软装需求', link: '/design/soft' },
-          { text: '效果图', link: '/build/tenjou' },
-          { text: '问题', link: '/build/tengen' },
+          { text: '硬装需求', link: '/design/硬装需求' },
+          { text: '软装需求', link: '/design/软装需求' },
         ],
       },
       {
-        text: '签订合同',
+        text: '合同内容',
         items: [
-          { text: '装修', link: '/stats/house' },
+          { text: '确认清单', link: '/contract/确认清单' },
+          { text: '插座', link: '/contract/插座' },
         ],
       },
     ],
